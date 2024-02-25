@@ -28,3 +28,9 @@
 - `collections.OrderedDict()`
 	- before python 3.5, needs d=collections.OrderedDict() to give an ordered sequence
 	- 
+
+#### array
+
+#### heapq - Heap Sort Algorithm
+
+#### bisect - Maintain Lists in sorted order

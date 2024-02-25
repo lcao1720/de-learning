@@ -87,7 +87,9 @@ where the condition can be something directly written as a comparison, or many o
 
 ##### strip()
 
+##### list.pop()
 
 
 
 
+![[Pasted image 20240220212957.png]]
