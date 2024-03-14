@@ -1,0 +1,3 @@
+- ray start --head --dashboard-host 0.0.0.0
+- for macOs:
+	- pip install -U "ray[default]"    
