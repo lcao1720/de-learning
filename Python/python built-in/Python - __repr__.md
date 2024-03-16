@@ -1,6 +1,7 @@
 
 https://www.scaler.com/topics/python-__repr__/
 
+<the python instance by calling "python" in terminal is also called REPL, [read, evaluates, prints, loops](https://realpython.com/interacting-with-python/) >
 
 - __repr__ is a built-in method in Python that returns a string representation of an object.
 - The primary purpose of __repr__ is to provide a helpful and unambiguous representation of an object for debugging purposes.
